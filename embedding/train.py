@@ -32,7 +32,7 @@ maxnum = CONFIG['maxnum']
 if backend == 'tf':
     from backprop_tf import TrainModel
 # elif backend == 'th':
-#     from tyrion.backprop_th import TrainModel
+#     from embedding.backprop_th import TrainModel
 
 
 def train(folder):
