@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04e5e27d-cc1f-4dd8-866e-5f7e0609015a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/run.ipynb" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
-      <change beforePath="$PROJECT_DIR$/tyrion/__init__.py" afterPath="$PROJECT_DIR$/embedding/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/tyrion/backprop_tf.py" afterPath="$PROJECT_DIR$/embedding/backprop_tf.py" />
-      <change beforePath="$PROJECT_DIR$/tyrion/backprop_th.py" afterPath="$PROJECT_DIR$/embedding/backprop_th.py" />
-      <change beforePath="$PROJECT_DIR$/tyrion/checkpoint" afterPath="$PROJECT_DIR$/embedding/checkpoint" />
-      <change beforePath="$PROJECT_DIR$/tyrion/compatibility.py" afterPath="$PROJECT_DIR$/embedding/compatibility.py" />
-      <change beforePath="$PROJECT_DIR$/tyrion/embedding.chk.data-00000-of-00001" afterPath="$PROJECT_DIR$/embedding/embedding.chk.data-00000-of-00001" />
-      <change beforePath="$PROJECT_DIR$/tyrion/embedding.chk.index" afterPath="$PROJECT_DIR$/embedding/embedding.chk.index" />
-      <change beforePath="$PROJECT_DIR$/tyrion/embedding.chk.meta" afterPath="$PROJECT_DIR$/embedding/embedding.chk.meta" />
-      <change beforePath="$PROJECT_DIR$/tyrion/embeddings.pickle" afterPath="$PROJECT_DIR$/embedding/embeddings.pickle" />
-      <change beforePath="$PROJECT_DIR$/tyrion/probarray.py" afterPath="$PROJECT_DIR$/embedding/probarray.py" />
-      <change beforePath="$PROJECT_DIR$/tyrion/train.py" afterPath="$PROJECT_DIR$/embedding/train.py" />
-      <change beforePath="$PROJECT_DIR$/tyrion/utils.py" afterPath="$PROJECT_DIR$/embedding/utils.py" />
+      <change beforePath="$PROJECT_DIR$/run.ipynb" afterPath="$PROJECT_DIR$/run.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,6 +18,16 @@
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/embedding/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="38" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,7 +66,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="67" />
     <option name="y" value="27" />
     <option name="width" value="1299" />
@@ -153,7 +147,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="27" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="27" width="1299" height="743" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -161,7 +155,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980047" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -206,6 +200,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="670" column="27" lean-forward="false" selection-start-line="670" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/embedding/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
           <folding />
         </state>
       </provider>
